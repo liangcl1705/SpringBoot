@@ -1,2 +1,1 @@
-# SpringBoot
-The repository for SpringBoot-based applications.
+This repository is used to record the road of researching SpringBoot.
